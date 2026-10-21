@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hvmm.aternos.me",
+    "ip": "cusk.aternos.host",
     "port": 44559,
     "version": "1.20.1",
     "try-creative": false
